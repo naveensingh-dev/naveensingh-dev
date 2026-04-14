@@ -1,199 +1,296 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=NAVEEN%20SINGH&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Developer%20%7C%20AI%20Solution%20Architect&descAlignY=60&descSize=18&descColor=88ccff&stroke=00ADB5&strokeWidth=2" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════════
+     NAVEEN SINGH — README.md  ◈  github.com/naveensingh-dev
+     Theme: QUANTUM ARCHITECT  ◈  NaveenOS v3.0
+     Colors: Deep Violet #7B2FF7 | Quantum Cyan #00D9FF | Stellar Gold #FFD700
+═══════════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,20,24,2&height=240&section=header&text=NAVEEN%20SINGH&fontSize=72&fontColor=EDE8FF&animation=fadeIn&fontAlignY=65&desc=AI%20Solution%20Architect%20◆%20Senior%20Frontend%20Engineer%20◆%20LangChain%20%7C%20Angular%20%7C%20RAG&descAlignY=84&descSize=14&descColor=A688FA&stroke=6600CC&strokeWidth=2" width="100%" />
+
+<br />
+
+<!-- ── SOCIAL BADGES ──────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FFCC&background=00000000&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+→+Angular+Architect+%26+AI+Solution+Architect;%24+cat+stack.txt+→+Angular+%7C+LangChain+%7C+LangGraph+%7C+RAG;%24+ls+projects%2F+→+atlas+GitMind+ResearchSyndicate...;%24+echo+%22Building+AI-First+Frontend+Systems%22;%24+ping+rishikesh.india+→+Location+found+✓)](https://github.com/naveensingh-dev)
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🖥️_NaveenOS-naveen--singh--portfolio.netlify.app-00FFCC?style=for-the-badge&labelColor=0d1117)](https://naveen-singh-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/◈%20NaveenOS%20Portfolio-7B2FF7?style=for-the-badge&logoColor=white)](https://naveen-singh-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-singh-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensingh.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev)
 [![Naukri](https://img.shields.io/badge/Naukri-3270ED?style=for-the-badge&logoColor=white)](https://www.naukri.com/mynaukri)
-[![Views](https://komarev.com/ghpvc/?username=naveensingh-dev&label=Profile+Views&color=00FFCC&style=for-the-badge)](https://github.com/naveensingh-dev)
 
 </div>
 
----
+<div align="center">
 
-## 💻 `$ neofetch --dev`
+[![Profile Views](https://komarev.com/ghpvc/?username=naveensingh-dev&label=◈+PROFILE+VIEWS&color=7B2FF7&style=flat-square)](https://github.com/naveensingh-dev)
+&nbsp;·&nbsp;
+![Followers](https://img.shields.io/github/followers/naveensingh-dev?label=◈+FOLLOWERS&color=00D9FF&style=flat-square&logo=github)
+&nbsp;·&nbsp;
+![Stars](https://img.shields.io/github/stars/naveensingh-dev?label=◈+TOTAL+STARS&color=FFD700&style=flat-square&logo=github)
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗            ║
-║   ████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║            ║
-║   ██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║            ║
-║   ██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║            ║
-║   ██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║            ║
-║   ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝            ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  OS         : NaveenOS v2.0 [Angular + AI Edition]                   ║
-║  Host       : Rishikesh, Uttarakhand, India 🇮🇳                      ║
-║  Role       : Senior Software Developer & AI Solution Architect      ║
-║  Portfolio  : naveen-singh-portfolio.netlify.app                     ║
-║  Uptime     : 9+ Years in Production                                 ║
-║  Kernel     : Angular 17+ • TypeScript • RxJS                        ║
-║  AI Engine  : LangChain • LangGraph • RAG • Agents                   ║
-║  Memory     : Infinite (Googled everything at least once)            ║
-║  Status     : 🟢 Available for new challenges                        ║
-║  Lighthouse : ████████████████████ 100/100                           ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+</div>
+
+<br />
+
+<!-- ── TYPING ANIMATION ────────────────────────────────────────── -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=A688FA&background=00000000&center=true&vCenter=true&random=false&width=820&lines=◆+AI+Solution+Architect+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;◆+Angular+17%2B+Specialist+%7C+TypeScript+%7C+RxJS+%7C+Micro-Frontends;◆+9%2B+Years+in+Production+%7C+50%2B+Projects+Shipped;◆+Lighthouse+100+Score+—+Every.+Single.+Deployment.;◆+Building+AI-first+dev+tools+for+10x+productivity;◆+From+Rishikesh%2C+India+◈+Engineering+for+the+World)](https://github.com/naveensingh-dev)
+
+</div>
+
+<br />
 
 ---
 
-## ⚡ System Specs `$ cat architect.config.ts`
+## ⬡ `IDENTITY.json`
 
-```typescript
-const naveen = {
-  identity:  { name: "Naveen Singh", alias: "NaveenOS", pronouns: "he/him" },
-  location:  "📍 Rishikesh, India — building for the world",
-  portfolio: "🖥️  https://naveen-singh-portfolio.netlify.app",
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=naveensingh-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=A688FA&icon_color=00D9FF&text_color=c9d1d9&bg_color=0D0D1A&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=◈+System+Metrics" />
 
-  core: {
-    frontend:  ["Angular 17+", "React", "TypeScript", "RxJS", "Micro-Frontends", "Web Components"],
-    ai_stack:  ["LangChain", "LangGraph", "LangSmith", "RAG Pipelines", "AI Agents", "Prompt Engineering"],
-    backend:   ["Node.js", "Express", "GraphQL", "REST APIs", "PostgreSQL", "MongoDB"],
-    devops:    ["Docker", "GitHub Actions", "Vercel", "CI/CD", "Edge Deployments"],
-    ml_tools:  ["Python", "OpenAI API", "HuggingFace", "TensorFlow", "Ollama", "Vector DBs"],
+```json
+{
+  "name":      "Naveen Singh",
+  "alias":     "NaveenOS",
+  "version":   "3.0",
+  "location":  "Rishikesh, Uttarakhand, India 🇮🇳",
+  "role":      "AI Architect & Senior Frontend Engineer",
+  "uptime":    "9+ years in production",
+
+  "core_stack": {
+    "frontend":  "Angular 17+ · React · TypeScript · RxJS",
+    "ai_layer":  "LangChain · LangGraph · RAG · AI Agents",
+    "backend":   "Node.js · GraphQL · PostgreSQL · MongoDB",
+    "devops":    "Docker · GitHub Actions · Vercel · CI/CD"
   },
 
-  metrics: {
-    experience:      "9+ years",
-    lighthouseScore: 100,
-    projectsShipped: "50+",
-    teamsLed:        "Cross-functional",
-    coffeeCupsPerDay: "∞",
-  },
-
-  superPowers: [
-    "⚡ Sub-second load times on every project",
-    "🤖 AI-first feature design & LLM integration",
+  "superpowers": [
+    "⚡ Sub-second load times — always",
+    "🤖 LLM integration & RAG in production",
     "🏗️  Scalable micro-frontend architecture",
-    "🔬 RAG pipelines & vector DB in production",
-    "🎯 100 Lighthouse score — no exceptions",
+    "🔬 Vector DB pipelines from scratch",
+    "🎯 Lighthouse 100 — non-negotiable"
   ],
 
-  currentMission: "Shipping AI-powered developer tools that make devs 10x faster",
-  philosophy:     "Architecture first. Ship fast. Let AI amplify the human.",
-} as const;
+  "mission": "Ship AI tools that make devs 10x faster",
+  "status":  "🟢 Open to new challenges"
+}
 ```
 
----
-
-## 🚀 Mission Control — Featured Projects
-
-<div align="center">
-
-| 🛸 Project | 📡 Description | 🔧 Stack | 🌟 Stars |
-|---|---|---|:-:|
-| [**🗺️ atlas**](https://github.com/naveensingh-dev/atlas) | AI-First Architecture Platform — Intelligent system design & workflow orchestration engine | `Angular` `Node.js` `AI Agents` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/atlas?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/atlas) |
-| [**🧠 ResearchSyndicate**](https://github.com/naveensingh-dev/ResearchSyndicate) | AI Research & Insight Aggregator — Automated knowledge discovery with RAG pipelines | `Python` `LangChain` `RAG` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/ResearchSyndicate?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/ResearchSyndicate) |
-| [**🤖 GitMind**](https://github.com/naveensingh-dev/GitMind) | AI Code Intelligence Agent — Context-aware code analysis & smart refactoring | `Python` `OpenAI` `Git` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/GitMind?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/GitMind) |
-| [**📈 simple_stock_app**](https://github.com/naveensingh-dev/simple_stock_app) | Real-time Stock Dashboard — Reactive Angular data viz with live market feeds | `Angular` `RxJS` `REST API` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/simple_stock_app?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/simple_stock_app) |
-| [**🏗️ sas-platform**](https://github.com/naveensingh-dev/sas-platform) | Enterprise SaaS Architecture — Multi-tenant platform with modular GraphQL design | `Angular` `GraphQL` `Node.js` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/sas-platform?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/sas-platform) |
-| [**🎨 architect-sprint**](https://github.com/naveensingh-dev/architect-sprint) | Frontend Architecture Patterns — Reusable components & typed Angular design system | `Angular` `TypeScript` `SCSS` | [![Stars](https://img.shields.io/github/stars/naveensingh-dev/architect-sprint?style=flat-square&color=00FFCC&labelColor=0d1117)](https://github.com/naveensingh-dev/architect-sprint) |
-
-</div>
+<br clear="right"/>
 
 ---
 
-## 🧬 Tech DNA — `$ cat /etc/tech-stack`
+## ⬡ `TECH_ARSENAL.config`
 
 <div align="center">
 
-### 🎯 Frontend Core
-![Angular](https://img.shields.io/badge/Angular_17+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend Core**
 
-### 🤖 AI / ML Intelligence Layer
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-F5A623?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00ADB5?style=for-the-badge&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,sass,html,css)](https://skillicons.dev)
 
-### ⚙️ Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**AI / ML Intelligence Layer**
 
-### 🛠️ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7B2FF7?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F5A623?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-00D9FF?style=flat-square&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-00D9FF?style=flat-square&logoColor=black)
+
+**Backend & Data**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis)](https://skillicons.dev)
+
+**DevOps & Tooling**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,netlify,figma,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 Telemetry — `$ watch --github-stats`
+## ⬡ `PROJECTS.constellation`
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=naveensingh-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC&icon_color=00ADB5&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=NaveenOS%20System%20Stats" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveensingh-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Active%20Language%20Processes" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🗺️ [atlas](https://github.com/naveensingh-dev/atlas)
+**AI-First Architecture Platform**
 
-<div align="center">
+Intelligent system design & workflow orchestration engine with multi-agent coordination
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveensingh-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=FF6B6B&currStreakNum=00FFCC&sideNums=c9d1d9&currStreakLabel=00FFCC&sideLabels=88ccff&dates=888888)](https://github.com/naveensingh-dev)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7B2FF7?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 
-</div>
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/atlas)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/atlas?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/atlas)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveensingh-dev&bg_color=0d1117&color=00FFCC&line=00ADB5&point=00FFCC&area=true&area_color=00ADB540&hide_border=true&custom_title=📡%20Commit%20Signal%20—%20Live%20Activity%20Pulse)](https://github.com/naveensingh-dev)
+### 🧠 [ResearchSyndicate](https://github.com/naveensingh-dev/ResearchSyndicate)
+**AI Research & Insight Aggregator**
 
-</div>
+Automated knowledge discovery engine powered by RAG pipelines and semantic search
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=flat-square&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-A688FA?style=flat-square)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=naveensingh-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/naveensingh-dev)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/ResearchSyndicate)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/ResearchSyndicate?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/ResearchSyndicate)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [GitMind](https://github.com/naveensingh-dev/GitMind)
+**AI Code Intelligence Agent**
+
+Context-aware code analysis, pattern detection & autonomous smart refactoring
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7B2FF7?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/GitMind)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/GitMind?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/GitMind)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [simple_stock_app](https://github.com/naveensingh-dev/simple_stock_app)
+**Real-time Stock Dashboard**
+
+Reactive Angular data visualization with live market feeds & streaming updates
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Charts](https://img.shields.io/badge/Charts-00D9FF?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/simple_stock_app)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/simple_stock_app?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/simple_stock_app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [sas-platform](https://github.com/naveensingh-dev/sas-platform)
+**Enterprise SaaS Architecture**
+
+Multi-tenant SaaS platform with modular GraphQL design & dynamic feature gating
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Multi-tenant](https://img.shields.io/badge/Multi--tenant-A688FA?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/sas-platform)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/sas-platform?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/sas-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [architect-sprint](https://github.com/naveensingh-dev/architect-sprint)
+**Frontend Architecture Patterns**
+
+Reusable design system components & fully typed Angular architecture patterns
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Design System](https://img.shields.io/badge/Design%20System-7B2FF7?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensingh-dev/architect-sprint)
+[![Stars](https://img.shields.io/github/stars/naveensingh-dev/architect-sprint?style=for-the-badge&color=FFD700&labelColor=0D0D1A)](https://github.com/naveensingh-dev/architect-sprint)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Contribution Feed — `$ ./snake --contributions`
+## ⬡ `METRICS.dashboard`
+
+<div align="center">
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=naveensingh-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=A688FA&icon_color=00D9FF&text_color=c9d1d9&bg_color=0D0D1A&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=◈+NaveenOS+System+Metrics" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveensingh-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=A688FA&text_color=c9d1d9&bg_color=0D0D1A&langs_count=8&custom_title=◈+Active+Language+Processes" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveensingh-dev&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7B2FF7&fire=FF6B6B&currStreakNum=A688FA&sideNums=c9d1d9&currStreakLabel=A688FA&sideLabels=A688FA&dates=888888)](https://github.com/naveensingh-dev)
+
+</div>
+
+<br />
+
+<!-- ── PROFILE SUMMARY CARDS ────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveensingh-dev&theme=tokyonight" width="99%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveensingh-dev&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveensingh-dev&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveensingh-dev&theme=tokyonight&utcOffset=5.5" width="32%" />
+
+</div>
+
+---
+
+## ⬡ `ACTIVITY.signal`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveensingh-dev&bg_color=0D0D1A&color=A688FA&line=7B2FF7&point=00D9FF&area=true&area_color=7B2FF740&hide_border=true&custom_title=◈+Commit+Signal+—+Live+Activity+Pulse)](https://github.com/naveensingh-dev)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=naveensingh-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/naveensingh-dev)
+
+</div>
+
+---
+
+## ⬡ `SNAKE.contributions`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveensingh-dev/naveensingh-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/naveensingh-dev/naveensingh-dev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveensingh-dev/naveensingh-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/naveensingh-dev/naveensingh-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/naveensingh-dev/naveensingh-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 <details>
-<summary>⚙️ Click to activate snake animation</summary>
+<summary>⚙️ Setup snake animation workflow</summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+Create `.github/workflows/snake.yml` in your profile repository:
 
 ```yaml
 name: Generate Snake
@@ -217,95 +314,101 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
 </details>
 
 ---
 
-## 🏆 Performance Metrics — `$ lighthouse --audit naveen`
+## ⬡ `BUILD_LOG.active`
+
+```diff
+@@  MISSION LOG — 2025  @@
+
++ [ACTIVE]   ► Shipping AI-powered dev agents for Angular frontend productivity
++ [ACTIVE]   ► Angular 17+ typed component library with zero-config setup
++ [ACTIVE]   ► RAG + vector DB integration for intelligent code assistance
++ [ONGOING]  ► Contributing to open-source Angular & AI ecosystem
+
+! [SHIPPED]  ► atlas          — AI-first architecture platform & orchestration engine  ✓
+! [SHIPPED]  ► ResearchSyndicate — AI knowledge aggregator with semantic search      ✓
+! [SHIPPED]  ► GitMind        — Context-aware AI code intelligence agent             ✓
+! [DEPLOYED] ► NaveenOS Portfolio — 100 Lighthouse score confirmed                   ✓
+
+- [CONCEPT]  ► Multi-modal AI assistant for enterprise frontend teams
+- [CONCEPT]  ► AI-powered Angular CLI plugin for architecture scaffolding
+```
+
+---
+
+## ⬡ `AUDIT.performance`
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║         NAVEEN SINGH — CAREER PERFORMANCE AUDIT          ║
-╠═══════════════════════════════════════════════════════════╣
-║  ⚡ Lighthouse Score     ████████████████████  100/100   ║
-║  🏗️  Architecture Depth  ████████████████████  Senior    ║
-║  🤖 AI Integration       ██████████████████░░  RAG+LLM   ║
-║  📦 Bundle Optimization  ████████████████████  Expert    ║
-║  🧪 Code Quality         ██████████████████░░  High      ║
-║  👥 Team Leadership      ████████████████████  Lead      ║
-╠═══════════════════════════════════════════════════════════╣
-║  📌 9+ Years Experience   🛠️ 50+ Features Shipped         ║
-║  🎯 Angular Specialist    🌐 Full-Stack Capable           ║
-║  🔬 AI Researcher         ⚡ Edge-Ready Deployments       ║
-╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║          NAVEEN SINGH — CAREER PERFORMANCE AUDIT v3.0            ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  ⚡ Lighthouse Score      ████████████████████  100 / 100        ║
+║  🏗️  Architecture Depth   ████████████████████  Principal        ║
+║  🤖 AI Integration        ██████████████████░░  RAG + Agents     ║
+║  📦 Performance Eng.      ████████████████████  Expert           ║
+║  🧪 Code Quality          ██████████████████░░  High             ║
+║  👥 Tech Leadership       ████████████████████  Lead             ║
+║  🔬 Research Depth        █████████████████░░░  Applied AI       ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  📌 9+ Years  ·  🛠️ 50+ Projects  ·  🎯 Angular Specialist       ║
+║  🌐 Full-Stack ·  🤖 AI Architect  ·  ⚡ Edge-Ready Deployments  ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🔭 Build Log — `$ tail -f /var/log/naveen.log`
+## ⬡ `CONNECT.signal`
+
+<div align="center">
 
 ```
-[2025] ► Shipping AI-powered dev agents for frontend productivity      [ACTIVE]
-[2025] ► Building Angular component library with full TypeScript types  [ACTIVE]
-[2025] ► Exploring RAG + vector DBs for intelligent code assistance    [ACTIVE]
-[2025] ► Contributing to open-source Angular & AI tooling ecosystem    [ONGOING]
-[2024] ► Launched NaveenOS portfolio — 100 Lighthouse ✓               [DEPLOYED]
-[2024] ► Built ResearchSyndicate — AI knowledge aggregator             [SHIPPED]
-[2024] ► Built GitMind — AI code intelligence agent                   [SHIPPED]
-[2024] ► Deployed atlas — AI-first architecture platform               [SHIPPED]
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+                   OPEN CHANNELS — NAVEEN SINGH
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+
+   🖥️  Portfolio   →  naveen-singh-portfolio.netlify.app
+   💼  LinkedIn   →  linkedin.com/in/naveen-singh-dev
+   📧  Email      →  naveensingh.dev@gmail.com
+   📋  Naukri     →  naukri.com/mynaukri
+
+  Open to: AI-first projects · Angular architecture consulting
+           tech leadership · anything that pushes the frontier
+
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
 ```
+
+[![Portfolio](https://img.shields.io/badge/◈_NaveenOS_Portfolio-7B2FF7?style=for-the-badge&logoColor=white)](https://naveen-singh-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-singh-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensingh.dev@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-3270ED?style=for-the-badge&logoColor=white)](https://www.naukri.com/mynaukri)
+
+</div>
 
 ---
-
-## 💬 Quote of the Day — `$ fortune --wisdom`
 
 <div align="center">
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
+<br />
 
----
+*"Architecture first. Ship fast. Let AI amplify the human."*
 
-## 📡 Connect — `$ ssh naveen@naveenos`
+<br />
 
-<div align="center">
-
-```
-> Establishing secure connection to Naveen Singh...
-> Authentication successful ✓
-> Available channels:
-```
-
-| 🌐 Channel | 🔗 Link | 📋 Purpose |
-|:-:|:-:|:-:|
-| 🖥️ **NaveenOS Portfolio** | [naveen-singh-portfolio.netlify.app](https://naveen-singh-portfolio.netlify.app/) | Full OS-themed experience |
-| 💼 **LinkedIn** | [naveen-singh-dev](https://linkedin.com/in/naveen-singh-dev) | Professional networking |
-| 📧 **Email** | [naveensingh.dev@gmail.com](mailto:naveensingh.dev@gmail.com) | Project collaboration |
-| 📋 **Naukri** | [View Profile](https://www.naukri.com/mynaukri) | Career opportunities |
-
-```
-> Open to: AI-first projects, Angular architecture consulting,
->          tech leadership, and anything that pushes the frontier.
-> 
-> Connection kept alive. Ping me anytime. 👋
-```
+**⚡ Built with caffeine & curiosity in Rishikesh, India** 🇮🇳 &nbsp;·&nbsp; **NaveenOS v3.0**
 
 </div>
 
----
+<br />
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code. Then, let AI make it 10x better."*
-
-**Built with ☕ + 🤖 in Rishikesh, India** 🇮🇳
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,20,24,2&height=130&section=footer&animation=fadeIn&reversal=true" width="100%" />
