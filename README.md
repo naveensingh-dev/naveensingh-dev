@@ -1,7 +1,7 @@
 <!-- Header with typing animation effect -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Singh+%E2%9C%A8;Angular+Architect+%7C+AI+Innovator;Building+AI-First+Frontend+Systems;Bareilly+%E2%9C%88+Bareilly%2C+India)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Singh+%E2%9C%A8;Angular+Architect+%7C+AI+Innovator;Building+AI-First+Frontend+Systems;Rishikesh+%E2%9C%88+Rishikesh%2C+India)
 
 ### 🔭 Senior Software Developer & AI Solution Architect
 #### Turning complex problems into elegant, AI-powered frontend experiences.
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-singh-dev)
 [![Naukri](https://img.shields.io/badge/Naukri-Profile-3270ED?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mynaukri)
 [![Email](https://img.shields.io/badge/Email-Reach+Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensingh.dev@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bareilly%2C+India-green?style=for-the-badge&logo=map-marker&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Rishikesh%2C+India-green?style=for-the-badge&logo=map-marker&logoColor=white)]()
 
 </div>
 
@@ -162,7 +162,7 @@ I architect **AI-first frontend systems** that blend Angular mastery with intell
 <div align="center">
 
 ### 🌟 Thanks for visiting my profile!
-*Built with passion in Bareilly, India* 🇮🇳
+*Built with passion in Rishikesh, India* 🇮🇳
 
 ![Visitor Count](https://profile-counter.glitch.me/naveensingh-dev/count.svg)
 
